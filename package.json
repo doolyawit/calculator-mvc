@@ -1,0 +1,17 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.194",
+    "@types/readline-sync": "^1.4.4",
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
+  }
+}
